@@ -269,5 +269,4 @@
 #         print(f"お釣り:{payment-all_total}")
 #         print("ありがとうございました。")
 #         break
-
-# 3.0
+# Vue2.0
