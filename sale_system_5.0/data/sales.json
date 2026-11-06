@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2026-11-04T14:10:42",
+    "items": [
+      {
+        "name": "20",
+        "price": 250,
+        "quantity": 10
+      }
+    ],
+    "subtotal": 2500,
+    "tax": 250,
+    "total": 2750
+  },
+  {
+    "timestamp": "2026-11-04T14:25:04",
+    "items": [
+      {
+        "name": "noto",
+        "price": 120,
+        "quantity": 20
+      },
+      {
+        "name": "pen",
+        "price": 250,
+        "quantity": 10
+      },
+      {
+        "name": "da",
+        "price": 300,
+        "quantity": 2
+      }
+    ],
+    "subtotal": 5500,
+    "tax": 550,
+    "total": 6050
+  }
+]
